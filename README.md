@@ -1,9 +1,8 @@
-Reverse. Analyse. Exploit. Understand.
-
 Welcome to my corner of GitHub.
+
 I'm The Dark Researcher — a security professional focused on understanding how software works at the lowest levels, how it breaks, and how it can be analysed and secured.
 My interests sit at the intersection of reverse engineering, malware analysis, low-level programming, and offensive security. I'm particularly interested in taking something I don't understand, pulling it apart, following the execution flow, and figuring out what is really happening underneath the surface.
-🔬 What I'm Exploring
+🔬 What I'm Exploring:
 - 🐕 Reverse Engineering — understanding binaries, program behaviour, and execution flow
 - 🦠 Malware Analysis — static and dynamic analysis, unpacking, behavioural analysis, and understanding malicious code
 - 💻 C Programming — learning how software interacts with memory, processes, and the operating system
