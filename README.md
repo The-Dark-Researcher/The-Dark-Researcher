@@ -13,6 +13,7 @@ My interests sit at the intersection of reverse engineering, malware analysis, l
 - 🧨 Exploitation — understanding vulnerabilities, memory corruption, and how software can be abused
 - 🚩 CTFs — reverse engineering, pwn, binary exploitation, and security challenges
 - 🔐 Offensive Security — understanding attacker techniques to better understand and defend against them
+  
 🛠️ Current Toolkit
 Languages
 ├── C
